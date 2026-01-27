@@ -33,6 +33,14 @@ The main goal of this repository is to:
 * Showcase continuous learning and improvement
 
 ---
+## screenshots 
+* screenshot 1
+![alt text](image.png)
+* screenshot 2
+![alt text](image-1.png)
+* screenshot 3
+![alt text](image-2.png)
+
 
 ## 📌 Notes
 
