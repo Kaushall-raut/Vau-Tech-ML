@@ -35,11 +35,11 @@ The main goal of this repository is to:
 ---
 ## screenshots 
 * screenshot 1
-![alt text](image.png)
+![alt text](images\imagee.png)
 * screenshot 2
-![alt text](image-1.png)
+![alt text](images\image-1.png)
 * screenshot 3
-![alt text](image-2.png)
+![alt text](images\image-2.png)
 
 
 ## ✅ Task 2: Dataset Sourcing and Understanding
@@ -68,10 +68,10 @@ The main goal of this repository is to:
 ## 📸 Screenshots
 
 - Screenshot 1  
-  ![Screenshot 1](C:\Users\lenovo\Desktop\vauTech\task-2\images\image.png)
+  ![Screenshot 1](images\image.png)
 
 - Screenshot 2  
-  ![Screenshot 2](C:\Users\lenovo\Desktop\vauTech\task-2\images\Screenshot 2026-01-31 085936.png)
+  ![Screenshot 2](images\Screenshot 2026-01-31 085936.png)
 
 
 
